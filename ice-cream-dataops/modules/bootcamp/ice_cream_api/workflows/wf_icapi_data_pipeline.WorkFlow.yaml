@@ -1,0 +1,2 @@
+description: Workflow migrates data from IceCreams REST API to RAW and transforms data to Expose Zone
+externalId: wf_icapi_data_pipeline
